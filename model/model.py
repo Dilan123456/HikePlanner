@@ -1,5 +1,5 @@
 # new terminal
-# cd model
+# cd model1ss
 # python model.py -u 'MONGO_DB_CONNECTION_STRING'
 
 import argparse
