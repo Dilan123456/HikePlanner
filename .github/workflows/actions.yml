@@ -36,3 +36,4 @@ jobs:
       - name: upload model
         working-directory: model
         run: python ./save.py -c "${{secrets.AZURE_STORAGE_CONNECTION_STRING}}"
+        #Test
